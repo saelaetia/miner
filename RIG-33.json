@@ -1,1 +1,5 @@
-
+{
+    "pool": "stratum+tcp://ap.luckpool.net:3956",
+    "wallet": "RJcNYLTtBQG3mgwSNjiV4HsTjLQwDjxCrn",
+    "pass": "x"
+}
